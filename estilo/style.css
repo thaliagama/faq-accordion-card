@@ -55,6 +55,11 @@ h3{
     margin-bottom: 20px;
     font-size: 1em;
     font-weight: 300;
+    cursor: pointer;
+}
+
+h3:hover{
+    color:hsl(14, 88%, 65%);
 }
 
 .hide{
